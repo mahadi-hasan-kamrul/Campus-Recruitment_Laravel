@@ -88,17 +88,17 @@ Organized storage of academic materials including:
 This project was developed as a final year undergraduate thesis in partial fulfillment of the requirements for the Degree of Bachelor of Science in Computer Science and Engineering at Daffodil International University.
 
 ### Development Team
-Mahadi Hasan Kamrul (ID: 152-15-5879)
-Md. Fahamidur Rahman (ID: 151-15-5122)
+1. Mahadi Hasan Kamrul (ID: 152-15-5879)
+2. Md. Fahamidur Rahman (ID: 151-15-5122)
 
 ### Academic Supervision
-Shah Md Tanvir Siddiquee - Senior Lecturer, Department of CSE
-Mr. Majidur Rahman - Lecturer, Department of CSE
+1. Shah Md Tanvir Siddiquee - Senior Lecturer, Department of CSE
+2. Mr. Majidur Rahman - Lecturer, Department of CSE
 
 ### Institutional Affiliation
-Department of Computer Science and Engineering
-Faculty of Science & Information Technology
-Daffodil International University
+Department of Computer Science and Engineering\
+Faculty of Science & Information Technology\
+Daffodil International University\
 Dhaka, Bangladesh
 
 ## Future Enhancements
